@@ -1,0 +1,15 @@
+*nyao_git*
+
+INTRODUCTION
+
+Requires rubywrapper plugin.
+
+USAGE
+
+<Commands>
+
+<Functions>
+
+vim:autoindent noexpandtab tabstop=8 shiftwidth=8
+vim:se modifiable
+vim:tw=78:et:ft=help:norl:
